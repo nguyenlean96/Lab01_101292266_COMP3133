@@ -1,0 +1,23 @@
+{
+	"name": "exercise",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nguyenlean96/Lab01_101292266_COMP3133.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/nguyenlean96/Lab01_101292266_COMP3133/issues"
+	},
+	"homepage": "https://github.com/nguyenlean96/Lab01_101292266_COMP3133#readme",
+	"dependencies": {
+		"csv-parser": "^3.0.0"
+	}
+}
